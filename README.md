@@ -8,7 +8,7 @@ https://code.visualstudio.com/docs/cpp/config-mingw
 
 After the steps are followen run Hello World program and check debugging is also working, because its essential part (%90) of the coding. 
 
-To gel all the codes in repository run
+To get all the codes in repository run
 
 git clone https://github.com/Hunterhal/data_structures
 
